@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Bouncing Ball, Configuration: Debug x64 ------
+1>Main (1).cpp
+1>Bouncing Ball.vcxproj -> C:\Users\HP\source\repos\Bouncing Ball\x64\Debug\Bouncing Ball.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 09:27 PM and took 02.258 seconds ==========
